@@ -1,0 +1,10 @@
+__pycache__/
+*.png
+*.svg
+*.pkl
+*.beton
+fig/
+
+# ignore slurm logging outputs
+*.err
+*.out
